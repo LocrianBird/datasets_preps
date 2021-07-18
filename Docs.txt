@@ -1,5 +1,0 @@
-Methods in Pandas and Numpy
-
-1) Operating on tables 
-2) Vizualization
-3) KNN 
