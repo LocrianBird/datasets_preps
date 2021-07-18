@@ -6,3 +6,5 @@
 2) Working with default datasets on Pandas and Seaborn
 3) Filtering with NumPy and applying arithmetical functions on tables with Pandas
 4) Showing different charts and its combinations
+
+Written in Jupyter Notebook
